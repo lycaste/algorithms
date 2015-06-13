@@ -42,7 +42,7 @@
 		F8989E541B290E3900839701 = {
 			isa = PBXGroup;
 			children = (
-				F8989E5F1B290E3900839701 /* List */,
+				F8989E5F1B290E3900839701 /* DoubleLink */,
 				F8989E5E1B290E3900839701 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,12 +55,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F8989E5F1B290E3900839701 /* List */ = {
+		F8989E5F1B290E3900839701 /* DoubleLink */ = {
 			isa = PBXGroup;
 			children = (
 				F8989E671B290EA100839701 /* Link.h */,
 				F8989E601B290E3900839701 /* main.cpp */,
 			);
+			name = DoubleLink;
 			path = List;
 			sourceTree = "<group>";
 		};
@@ -237,6 +238,7 @@
 				F8989E661B290E3900839701 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
